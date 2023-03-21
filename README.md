@@ -31,15 +31,20 @@ Module 6 Challenge
 N/A
 
 ## Usage
-
-
-
-
-
+Open the app with the provided link: "Insert Link Here"
+Input a city name in the input bar and "click" on the Search button (Search Icon).
 ![image](https://user-images.githubusercontent.com/113961091/226556067-e86fa56d-e9bf-4108-9257-27d33aa2daa4.png)
-
+Then current weather for the city will be show, while adding the city to the local storage to display in a Search History.
+Once displayed the following information will be displayed.
+-- Weather Icon (unable to render)
+-- Temperature
+-- City Name
+-- Humidity
+--Wind Speeds
 Current Weather Display
 ![image](https://user-images.githubusercontent.com/113961091/226556169-6390a5dd-b897-40ce-9ef6-f40b2a510100.png)
+
+At the same time a 5 Day Forecast will be rendered in the bottom section of the screen inside the 5 Day Fore
 
 5 Day Forecast Display
 ![image](https://user-images.githubusercontent.com/113961091/226556263-3614242a-bd8f-4fd2-8004-95e47fffb2be.png)
