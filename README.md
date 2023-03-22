@@ -44,7 +44,7 @@ Once displayed the following information will be displayed.
 Current Weather Display
 ![image](https://user-images.githubusercontent.com/113961091/226556169-6390a5dd-b897-40ce-9ef6-f40b2a510100.png)
 
-At the same time a 5 Day Forecast will be rendered in the bottom section of the screen inside the 5 Day Fore
+At the same time a 5 Day Forecast will be rendered in the bottom section of the screen inside the 5 Day Forecast
 
 5 Day Forecast Display
 ![image](https://user-images.githubusercontent.com/113961091/226556263-3614242a-bd8f-4fd2-8004-95e47fffb2be.png)
